@@ -1,6 +1,6 @@
 # Hey, I'm ByteMaster-Y! 👋
 
-Welcome to my coding playground! I'm passionate about crafting elegant solutions and tackling challenging problems. Currently on a journey to explore the vast world of new technologies.
+Welcome to my coding playground! I'm on a mission to craft elegant solutions, tackle challenging problems, and explore the vast world of new technologies.
 
 🚀 Here's a bit more about me:
 
@@ -8,10 +8,25 @@ Welcome to my coding playground! I'm passionate about crafting elegant solutions
 - 🌱 I'm constantly learning and experimenting with cutting-edge technologies.
 - 📫 Reach me at `issacyese5566@gmail.com`.
 
+🌐 Check out my latest thoughts and projects on [Velog](https://velog.io/@ysinfrance/posts).
+
 ## Featured Repositories
 
-### [Project1](link-to-repo)
-Short description goes here. Highlight the key features and technologies used.
+### [CodeSculptor](https://github.com/ByteMaster-Y/leetcode_hub)
+
+Embark on a coding journey with CodeSculptor, where algorithms meet creativity. This repository showcases my solutions to various LeetCode challenges, offering not just code, but insights into problem-solving approaches.
+
+Key Features:
+- In-depth problem analysis
+- Efficient code solutions
+- Collaborative contributions from the coding community
+
+Technologies Used:
+- Python
+- C++
+- LeetCode platform
+
+Unleash your coding prowess and sculpt elegant solutions with CodeSculptor!
 
 ### [Project2](link-to-repo)
 Short description goes here. Share what makes this project special.
