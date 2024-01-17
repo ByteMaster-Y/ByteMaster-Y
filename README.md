@@ -37,3 +37,18 @@ Short description goes here. Share what makes this project special.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteMaster-Y&show_icons=true&theme=radical)
 
 👉 Feel free to dive into the code, share your thoughts, or collaborate on any of these projects. Let's build something awesome together!
+
+## Languages and Tools
+
+- **Python**: LeetCode, Data Analysis, Algorithms
+- **C++**: Competitive Programming, Algorithms
+- **JavaScript**: Web Development
+- **HTML, CSS**: Frontend Development
+- **Java**: Android App Development
+- **SQL**: Simple Data Analysis
+- **Arduino**: IoT Prototyping
+
+I've also worked with:
+
+- **SQL**: Database Management
+- **Git**: Version Control
