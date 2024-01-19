@@ -28,9 +28,6 @@ Technologies Used:
 
 Unleash your coding prowess and sculpt elegant solutions with CodeSculptor!
 
-<!-- LeetCode Stats -->
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ByteMaster-Y)
-
 ### [Project2](link-to-repo)
 Short description goes here. Share what makes this project special.
 
