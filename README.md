@@ -27,6 +27,8 @@ Technologies Used:
 - LeetCode platform
 
 Unleash your coding prowess and sculpt elegant solutions with CodeSculptor!
+<!-- GitHub Readme Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
 
 ### [Project2](link-to-repo)
 Short description goes here. Share what makes this project special.
