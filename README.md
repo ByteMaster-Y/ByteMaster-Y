@@ -28,7 +28,7 @@ Technologies Used:
 
 Unleash your coding prowess and sculpt elegant solutions with CodeSculptor!
 
-### [Project2](https://github.com/ByteMaster-Y/baekjoon_hub)
+### [BaekjoonBlitz](https://github.com/ByteMaster-Y/baekjoon_hub)
 
 Dive into the world of competitive programming with Project2! This repository captures my journey as I study and practice algorithms using the Baekjoon Online Judge. Each problem is a stepping stone towards mastering C++ and honing problem-solving skills.
 
