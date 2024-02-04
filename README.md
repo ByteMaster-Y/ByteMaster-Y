@@ -37,6 +37,23 @@ Dive into the world of competitive programming with BaekjoonBlitz! This reposito
 - **C++** 🧑‍💻
 - **Baekjoon platform** 🏹
 
+### Rust Exploration
+
+Venture into the realm of systems programming and high-performance computing with Rust exploration! While CodeSculptor and BaekjoonBlitz showcase my proficiency in Python and C++, this repository marks the beginning of a Rust-centric coding journey.
+
+**Key Features:**
+
+- Systematic exploration of Rust programming language 🦀
+- Solutions to Rust-related challenges and projects 🚧
+- Insights into Rust's ownership model and concurrency features 🔗
+
+**Technologies Used:**
+
+- Rust 🦀
+- Rust documentation and tutorials 📚
+
+Feel free to join me on this exciting exploration of Rust, where safety meets performance, and let's contribute to the Rust ecosystem together!
+
 ... and more exciting projects to explore!
 
 <!-- GitHub Stats -->
