@@ -39,9 +39,6 @@ Dive into the world of competitive programming with BaekjoonBlitz! This reposito
 
 ### [Rust Exploration](https://github.com/ByteMaster-Y/Rust_Repository)
 
-[![ByteMaster-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteMaster-Y)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Venture into the realm of systems programming and high-performance computing with Rust exploration! While CodeSculptor and BaekjoonBlitz showcase my proficiency in Python and C++, this repository marks the beginning of a Rust-centric coding journey.
 
 **Key Features:**
