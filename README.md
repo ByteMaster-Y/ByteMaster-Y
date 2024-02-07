@@ -61,13 +61,11 @@ Feel free to join me on this exciting exploration of Rust, where safety meets pe
 
 [![ByteMaster-Y's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteMaster-Y&show_icons=true&theme=radical&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMaster-Y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 👉 Feel free to dive into the code, share your thoughts, or collaborate on any of these projects. Let's build something awesome together!
 
 ## Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMaster-Y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Python** 🐍: LeetCode, Data Analysis, Algorithms
 - **C++** 🧑‍💻: Competitive Programming, Algorithms
