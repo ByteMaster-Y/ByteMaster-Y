@@ -1,4 +1,4 @@
-# Hey, I'm ByteMaster-Y! 👋
+# Hey, I'm ByteMaster! 👋
 
 Welcome to my coding playground! I'm on a mission to craft elegant solutions, tackle challenging problems, and explore the vast world of new technologies.
 
