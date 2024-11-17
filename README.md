@@ -1,13 +1,14 @@
-# Hey, I'm ByteMaster! 👋
+Hey, I'm ByteMaster (aka Bad Potato) 👾
+Welcome to my coding playground! I'm passionate about creating innovative solutions, diving deep into the world of Machine Learning and Security, and exploring the endless universe of Sci-Fi. 🚀
 
-Welcome to my coding playground! I'm on a mission to craft elegant solutions, tackle challenging problems, and explore the vast world of new technologies.
+🔧 Here's a glimpse of who I am:
 
-🚀 Here's a bit more about me:
+💻 Programming is my passion — I craft code to solve problems and build amazing things.
+🌱 Currently exploring Machine Learning and Cybersecurity to dive deeper into the tech world.
+🌌 Sci-Fi enthusiast — Fascinated by the mysteries of space and the possibilities of futuristic technologies.
+🖥️ Running a tech blog, sharing my thoughts and experiences on all things programming and tech.
+🐍 Python is my go-to language, and I'm also diving into C++ to broaden my horizons.
+📫 Reach out to me at issacyese5566@gmail.com.
 
-- 💻 Coding is my craft, and problem-solving is my game.
-- 🌱 I'm constantly learning and experimenting with cutting-edge technologies.
-- 📫 Reach me at `issacyese5566@gmail.com`.
-
-🌐 Check out my latest thoughts and projects on [Velog](https://velog.io/@ysinfrance/posts).
-
+🌐 Check out my latest projects and tech musings on Velog.
 
